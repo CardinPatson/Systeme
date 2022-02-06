@@ -1,4 +1,4 @@
 #!/bin/bash
 
-gcc pointeur.c -o ./bin/pointeur
+gcc ./src/pointeur.c -o ./bin/pointeur
 ./bin/pointeur
