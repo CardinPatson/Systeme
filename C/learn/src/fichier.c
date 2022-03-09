@@ -65,7 +65,7 @@ int main(int argc , char **argv){
 	//printf("Contenu du store\n %s\n", store);
 
 
-	/*
+	/*	
 	 * fgets(store , taille_store, file) lit une ligne renvoit NULL si on est à la fin
 	 *
 	 */	
