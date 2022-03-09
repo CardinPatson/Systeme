@@ -1,3 +1,5 @@
+module D.src.config;
+
 final class Config{
     public string defaultSyncDir = "Onedrive";
     public string defaultSkipFile  = "*.tmp|.~*";
